@@ -1,7 +1,7 @@
 baseURL = "https://example.com"
 title   = "Loich Kamdoum Deameni"
 languageCode = "en-us"
-theme = "hello-friend-ng"
+theme = "theme-hello-friend"
 
 PygmentsCodeFences = true
 PygmentsStyle = "monokai"
@@ -55,13 +55,13 @@ disableHugoGeneratorInject = false
 
   # Metadata mostly used in document's head
   # 
-  description = "Nice theme for homepages and blogs"
+  description = "Here is my CV and my blog"
   keywords = ""
   images = [""]
 
   # Home subtitle of the index page.
   #
-  homeSubtitle = "Hello Friend NG"
+  homeSubtitle = "Loich Kamdoum Deameni"
 
   # Set a background for the homepage
   # backgroundImage = "assets/images/background.jpg"
@@ -165,12 +165,12 @@ disableHugoGeneratorInject = false
 
 [languages]
   [languages.en]
-    subtitle  = "Hello Friend NG Theme"
+    subtitle  = "Loich Kamdoum Deameni"
     weight    = 1
     copyright = '<a href="https://creativecommons.org/licenses/by-nc/4.0/" target="_blank" rel="noopener">CC BY-NC 4.0</a>'
 
   [languages.fr]
-    subtitle  = "Hello Friend NG Theme"
+    subtitle  = "Loich Kamdoum Deameni"
     weight    = 2
     copyright = '<a href="https://creativecommons.org/licenses/by-nc/4.0/" target="_blank" rel="noopener">CC BY-NC 4.0</a>'
 
