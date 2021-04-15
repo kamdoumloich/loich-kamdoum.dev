@@ -37,7 +37,7 @@ disableHugoGeneratorInject = false
   posts = "/posts/:year/:month/:title/"
 
 [author]
-  name = "Jane Doe"
+  name = "Loich Kamdoum Deameni"
 
 [blackfriday]
   hrefTargetBlank = true
@@ -106,6 +106,7 @@ disableHugoGeneratorInject = false
   # footerLeft = "Powered by <a href=\"http://gohugo.io\">Hugo</a>"
   # footerRight = "Made with &#10084; by <a href=\"https://github.com/rhazdon\">Djordje Atlialp</a>"
 
+
   # Colors for favicons
   #
   [params.favicon.color]
@@ -142,14 +143,9 @@ disableHugoGeneratorInject = false
   #   alt      = "Portrait"
   #   maxWidth = "50px"
 
-  # Social icons
-  [[params.social]]
-    name = "twitter"
-    url  = "https://twitter.com/"
-
   [[params.social]]
     name = "email"
-    url  = "mailto:nobody@example.com"
+    url  = "mailto:kamdoumloich@gmail.com"
 
   [[params.social]]
     name = "github"
@@ -161,7 +157,7 @@ disableHugoGeneratorInject = false
 
   [[params.social]]
     name = "stackoverflow"
-    url  = "https://www.stackoverflow.com/"
+    url  = "https://stackoverflow.com/users/6412212/loïch"
 
 [languages]
   [languages.en]
