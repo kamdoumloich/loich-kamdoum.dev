@@ -1,0 +1,24 @@
+{
+  "name": "loich-kamdoum.dev",
+  "version": "1.0.0",
+  "description": "First sample of my CV",
+  "main": "index.js",
+  "scripts": {
+    "deploy": "node deploy.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/kamdoumloich/loich-kamdoum.dev.git"
+  },
+  "author": "kamdoum",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/kamdoumloich/loich-kamdoum.dev/issues"
+  },
+  "homepage": "https://github.com/kamdoumloich/loich-kamdoum.dev#readme",
+  "dependencies": {
+    "glob": "^7.1.7",
+    "ssh2-sftp-client": "^6.0.1",
+    "upath": "^2.0.1"
+  }
+}
